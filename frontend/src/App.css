@@ -1,0 +1,8 @@
+/* Remove default restricted layout */
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  /* Ensure full height */
+  min-height: 100vh;
+}
